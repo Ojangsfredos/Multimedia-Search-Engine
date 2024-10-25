@@ -1,5 +1,4 @@
 
-```markdown
 # Multimedia Search Engine using ChromaDB
 
 ## Project Purpose
