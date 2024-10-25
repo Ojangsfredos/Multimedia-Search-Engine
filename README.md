@@ -54,8 +54,8 @@ To set up and run the application locally, follow these steps:
 
 ## Video Demonstration
 
-![Multimedia Search Engine Demo](https://img.youtube.com/vi/emZToJkCZPs/0.jpg)
-[Watch the demonstration on YouTube](https://youtu.be/emZToJkCZPs)
+[![Multimedia Search Engine Demo](https://img.youtube.com/vi/emZToJkCZPs/0.jpg)](https://youtu.be/emZToJkCZPs)
+
 
 ## Conclusion
 
