@@ -22,7 +22,7 @@ To set up and run the application locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+  
    cd multimedia-search-engine
    ```
 
